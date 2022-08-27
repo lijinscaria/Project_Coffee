@@ -1,10 +1,87 @@
-img{
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Poppins&family=Rubik+Maze&display=swap');
+.bg{
     height: 100%;
-    width: 100%;
-}
+    width: 100%;}
 .logo{
-    height: 10%;
-    width: 10%;
-    margin-left: 25px;
-    margin-top: 10px;
-}
+    height: 125px;
+    width: 130px;
+    position: absolute;
+    left: 50px;
+    top: 40px;}
+#heading1{
+    position: absolute;
+    left: 75px;
+    top: 300px;
+    font-size:65px;
+    font-family: 'Poppins', sans-serif;
+    color:white;}
+#heading2{
+    position: absolute;
+    left: 75px;
+    top: 375px;
+    font-size:65px;
+    font-family: 'Poppins', sans-serif;
+    color:white;}
+#heading3{
+    position: absolute;
+    left: 75px;
+    top: 450px;
+    font-size:65px;
+    font-family: 'Poppins', sans-serif;
+    color:white;}
+#home{
+    left: 675px;
+    top: 45px;
+    font-size:20px;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    color:orange;
+    position: absolute;}
+#home:hover{
+    color:white;}
+
+#about{
+    padding:0 10px;
+    left: 775px;
+    top: 45px;
+    font-size:20px;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    color:white;;
+    position: absolute;}
+#about:hover{
+    color:orange}
+#menu{    padding:0 10px;
+    left: 890px;
+    top: 45px;
+    font-size:20px;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    color:white;
+    position: absolute;}
+#menu:hover{
+    color:orange}
+#events{    padding:0 20px;
+    left: 990px;
+    top: 45px;
+    font-size:20px;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    color:white;
+    position: absolute;}
+#events:hover{
+    color:orange}
+#contact{    padding:0 20px;
+    left: 1100px;
+    top: 45px;
+    font-size:20px;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    color:white;
+    position: absolute;}
+#contact:hover{
+    color:orange}
+#buy{    padding:0 20px;
+    left: 1225px;
+    top: 45px;
+    font-size:20px;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    color:white;
+    position: absolute;}
+#buy:hover{
+    color:orange}
