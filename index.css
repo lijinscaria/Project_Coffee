@@ -8,6 +8,44 @@
     position: absolute;
     left: 50px;
     top: 40px;}
+#brand{
+    position:absolute;
+    left: 50px;
+    top: 140px;
+    font-size:24.5px;
+    background-color: brown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;}
+.c1{
+    position:absolute;
+    height: 220px;
+    width: 250px;
+    left: 838px;
+    top: 1290px;
+    border: 1px solid snow;
+}
+.c2{
+    position:absolute;
+    height: 220px;
+    width: 250px;
+    left: 1090px;
+    top: 1290px;
+    border: 1px solid snow;
+}
+.con1{
+    background-color: rgb(215, 207, 207);
+    height: 400px;
+    width: 450px;
+    margin-top: 200px;
+}
+#heading{
+    position: absolute;
+    left: 80px;
+    top: 325px;
+    font-size:20px;
+    font-family: 'Poppins';
+    color:orange;
+}
 #heading1{
     position: absolute;
     left: 75px;
@@ -35,53 +73,80 @@
     font-size:20px;
     font-family: 'Poppins',Arial, Helvetica, sans-serif;
     color:orange;
-    position: absolute;}
-#home:hover{
-    color:white;}
+    position: fixed;}
 
 #about{
     padding:0 10px;
-    left: 775px;
+    left: 770px;
     top: 45px;
     font-size:20px;
     font-family: 'Poppins',Arial, Helvetica, sans-serif;
     color:white;;
-    position: absolute;}
+    position: fixed;}
 #about:hover{
     color:orange}
 #menu{    padding:0 10px;
-    left: 890px;
+    left: 880px;
     top: 45px;
     font-size:20px;
     font-family: 'Poppins',Arial, Helvetica, sans-serif;
     color:white;
-    position: absolute;}
+    position: fixed;}
 #menu:hover{
     color:orange}
 #events{    padding:0 20px;
-    left: 990px;
+    left: 980px;
     top: 45px;
     font-size:20px;
     font-family: 'Poppins',Arial, Helvetica, sans-serif;
     color:white;
-    position: absolute;}
+    position: fixed;}
 #events:hover{
     color:orange}
 #contact{    padding:0 20px;
-    left: 1100px;
+    left: 1090px;
     top: 45px;
     font-size:20px;
     font-family: 'Poppins',Arial, Helvetica, sans-serif;
     color:white;
-    position: absolute;}
+    position: fixed;}
 #contact:hover{
     color:orange}
 #buy{    padding:0 20px;
-    left: 1225px;
+    left: 1215px;
     top: 45px;
     font-size:20px;
     font-family: 'Poppins',Arial, Helvetica, sans-serif;
     color:white;
-    position: absolute;}
+    position: fixed;}
 #buy:hover{
     color:orange}
+.foot1{
+    position:absolute;
+    margin-top: 200px;
+    left: 120px;
+    font-size:20px;
+    font-family: 'Poppins',Arial, Helvetica, sans-serif;
+    color:white;
+}
+.footbox1{
+    margin-left: -8px;
+    height:500px;
+    width: 102%;
+    margin-bottom:-20px;
+   background-color:#382E27;
+}
+hr{
+    width: 101%;   
+}
+.footbox2{
+    margin-left: -8px;
+    height:50px;
+    width:74%;
+    margin-bottom: -8px;
+   background-color:#382E27;
+   color: white;
+   padding-top: 15px;
+   padding-left: 390px;
+    font-family: 'Poppins';
+}
