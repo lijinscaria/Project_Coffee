@@ -30,14 +30,26 @@
     width: 250px;
     left: 1090px;
     top: 930px;
-    border: 1px solid snow;
-}
+    border: 1px solid snow;}
+.c3{
+    position:absolute;
+    height: 360px;
+    width: 640px;
+    left: 650px;
+    top: 1790px;
+    border: 1px solid snow;}
+
 .con1{
     background-color: rgb(215, 207, 207);
     height: 480px;
     width: 600px;
-    margin-top: 180px;
-}
+    margin-top: 180px;}
+.con2{
+    background-color: rgb(215, 207, 207);
+    height: 480px;
+    width: 600px;
+    margin-left: 780px;
+    margin-top: 40px;}
 #heading{
     position: absolute;
     left: 80px;
@@ -125,6 +137,59 @@
 .vid{ position: absolute;
     margin-top: 240px;
     margin-left: 100px;}
+
+.des1{
+    position: absolute;
+    font-size:40px;
+    font-family:'Poppins',Arial, Helvetica, sans-serif;
+    color:#2f2721;
+    left: 1020px;
+    top: 1200px;}
+
+.line{margin-top: 255px;
+    margin-left: 1015px;
+    position: absolute;
+    height:5px;
+    width: 200px;
+   background-color:orange}
+    
+.des2{
+    position: absolute;
+    font-size:16px;
+    font-family:'Poppins',Arial, Helvetica, sans-serif;
+    color:#2f2721;
+    text-align:justify;
+    left: 845px;
+    top: 1310px;
+    padding-right: 60px;}
+.des3{
+    position: absolute;
+    font-size:16px;
+    font-family:'Poppins',Arial, Helvetica, sans-serif;
+    color:#2f2721;
+    text-align:justify;
+    left: 845px;
+    top: 1440px;
+    padding-right: 60px;}
+.des4{
+    position: absolute;
+    font-size:16px;
+    font-family:'Poppins',Arial, Helvetica, sans-serif;
+    color:#2f2721;
+    text-align:justify;
+    right: 845px;
+    top: 1830px;
+    padding-left: 60px;}
+.des5{
+    position: absolute;
+    font-size:16px;
+    font-family:'Poppins',Arial, Helvetica, sans-serif;
+    color:#2f2721;
+    text-align:justify;
+    right: 845px;
+    top: 1950px;
+    padding-left: 60px;
+}
 
 #form{
     background-color:black;
@@ -247,6 +312,31 @@ button{
     margin-left: 690px;
     margin-bottom: 30px;}
 
+    #ff{
+        background-color: rgb(215, 207, 207);
+        padding-left: 100px;
+        font-family:'Times New Roman', Times, serif;
+        font-weight:600;}
+    #name{height: 18px;width: 300px;}
+    #email{height: 18px;width: 400px;}
+    #phone{height: 18px;width: 300px;}
+    #DOB{height: 18px;width: 200px;}
+    
+    #ff1{background-color: rgb(215, 207, 207);
+        padding-left: 200px;
+        font-family:'Times New Roman', Times, serif;
+        font-weight:500;}
+    #fform{
+        padding-top: 50px;
+        text-align: center;}
+    
+    .lb{
+        height: 30px;
+        width: 80px;
+        font-size:15px;
+        margin-left: 300px;
+        margin-bottom: 50px;
+    }
 
 
         
