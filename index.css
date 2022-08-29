@@ -18,7 +18,6 @@
     color:white;}
 
 .meet{
-    /* background-color: red; */
     position: absolute;
     padding-top: 15px;
     text-align: center;
@@ -162,7 +161,7 @@
     left: 1020px;
     top: 1200px;}
 
-.line{margin-top: 255px;
+.line{top: 1277px;
     margin-left: 1015px;
     position: absolute;
     height:5px;
